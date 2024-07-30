@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/github/followers/rupesh9369?label=Follow&style=social">
   </a>
   <a href="https://github.com/rupesh9369/TeleGram-Group-Scraper">
-    <img src="https://img.shields.io/github/stars/th3unkn0n/TeleGram-Group-Scraper?style=social">
+    <img src="https://img.shields.io/github/stars/rupesh9369/Telegram-Scraper?style=social">
   </a>
 </p>
 <p align="center">
